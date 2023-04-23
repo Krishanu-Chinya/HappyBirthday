@@ -1,6 +1,6 @@
 /* Absolute Center CSS Spinner */
 .loading {
-  position: fixed;
+  position: center;
   z-index: 99999;
   height: 2em;
   width: 2em;
